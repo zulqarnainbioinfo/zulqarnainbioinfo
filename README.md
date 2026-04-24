@@ -1,39 +1,38 @@
 <div>
   <img src="https://avatars.githubusercontent.com/u/274223647?v=4" width="40" align="left" style="margin-right: 10px; border-radius: 50%;">
-  <h1>zulbioinfo</h1>
+  <h1>Zulqarnain</h1>
 </div>
 
 <br>
 
 Hi there 👋
 
-I'm **Zulqarnain** — a passionate student exploring **Bioinformatics & Computational Biology 💻🧬**
+I'm **Zulqarnain** — a student exploring **Computer Science, Bioinformatics, and problem solving through code**.
 
----
+I’m focused on building a strong foundation while keeping my path open across:
 
-## 📌 Featured Repository
-
-* 🧬 [**learning-bioinformatics**](https://github.com/zulbioinfo/learning-bioinformatics)
-
-  → A personal journal documenting my scripts, projects, and progress
+* Bioinformatics 🧬
+* Software Development 💻
+* Data & AI 📊
 
 ---
 
 <details>
-  <summary><b>✨ Click to See My Current Goals</b></summary>
+  <summary><b>📌 Featured Work & About My Projects</b></summary>
   <br>
 
-## 🎯 Learning Goals
+### 🔗 Featured Repository
 
-* [x] 🐍 Python
-* [ ] 📊 R Programming
-* [ ] 🖥️ Command Line / Linux
-* [ ] 🧬 Computational Biology
-* [ ] 🌐 Biological Databases
+* [**learning-bioinformatics**](https://github.com/zulbioinfo/learning-bioinformatics)
+  → A personal learning journal of small projects, experiments, and progress over time
 
-## 📊 Progress
+---
 
-  - Python Basics: In Progress
+### 🚧 About My Work
+
+Most of my projects are **small and simple by design** — they reflect my learning process.
+
+Over time, this will evolve into more structured and complete work.
 
 </details>
 
