@@ -30,7 +30,7 @@ I’m focused on building a strong foundation while keeping my path open in:
 
 ### 🚧 About My Work
 
-Most of my projects are **small and simple by design** — reflecting my learning process.
+Most of my projects are **simple and focused** — reflecting my learning process.
 
 Over time, this will evolve into more structured and complete projects.
 
